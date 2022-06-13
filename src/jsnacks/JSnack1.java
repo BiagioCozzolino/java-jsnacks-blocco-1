@@ -26,6 +26,7 @@ public class JSnack1 {
 			flag = flag + 1;
 		}
 		System.out.println(somma);
+		scan.close();
 
 	}
 
